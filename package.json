@@ -1,5 +1,5 @@
 {
-  "name": "COBY",
+  "name": "XBOT",
   "version": "1.0.0",
   "description": "COBY for whatsapp online with termux",
   "main": "index.js",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/affisjunianto/botwasapv6/issues"
   },
-"homepage": "https://github.com/CoolBoyYTr/Bot-Whatsapp/",
+"homepage": "https://github.com/CoolBoyYTr/Bot-Whatsapp/readme",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
