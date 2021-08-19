@@ -1,4 +1,4 @@
-{
+ {
   "name": "XBOT",
   "version": "1.0.0",
   "description": "Xbot for whatsapp online with termux",
@@ -8,9 +8,12 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index"
-  }, 
-
+    "start": "node index",
+    "play": "nodemon index"
+  },
+  "keywords": [
+    "k"
+],
   "author": "CoolBoyYTr",
   "repository": {
     "type": "git",
