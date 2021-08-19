@@ -1,4 +1,3 @@
-/*[-- require hdlr --]*/
 const {
     MessageType,
     Presence,
