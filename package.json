@@ -8,21 +8,18 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index",
-    "play": "nodemon index"
-  },
-  "keywords": [
-    "k"
-  ],
-  "author": "affis junianto",
+    "start": "node index"
+  }, 
+
+  "author": "CoolBoyYTr",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2.git"
+    "url": "https://github.com/CoolBoyYTr/Bot-Whatsapp.git"
   },
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasapv2/issues"
+    "url": "https://github.com/CoolBoyYTr/Bot-Whatsapp/issues"
   },
-"homepage": "https://github.com/affisjunianto/botwasapv2/readme",
+"homepage": "https://github.com/CoolBoyYTr/Bot-Whatsapp/blob/main/README.md",
 "license": "ISC",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
